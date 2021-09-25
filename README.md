@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="justify">
-Didactic demonstration of advanced JavaScripty ES6 tests with mocha. Credits for the Digital Innovation One Essential ES6 JavaScript module.
+Didactic demonstration of advanced JavaScripty ES6 tests with mocha. Credits for the Digital Innovation One JavaScript ES6 Advanced module.
 </h3>
 
 <br>
